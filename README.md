@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Networking Projects:</h2>
 
-  - [Home LAB Active Directory](https://github.com/ypatelIT/Algorithms-Practice)
+  - [Home LAB Active Directory](https://github.com/ypatelIT/LAB-Active-Directory)
 
 
 <h2>📺 YouTube Videos</h2>
