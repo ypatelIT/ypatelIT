@@ -1,15 +1,15 @@
-<h1>Hi, I'm Yogesh! <br/><a href="https://github.com/ypatelIT">Networking</a>, <a href="https://www.linkedin.com/in/yogesh-patel-D/">Network Security</a>, <a href="https://www.youtube.com@networkinsights">YouTuber</a></h1>
+<h1>Hi, I'm Yogesh! <br/><a href="https://github.com/ypatelIT">Networking</a>, <a href="https://www.linkedin.com/in/yogesh-patel-D/">Cyber & Network Security</a>, <a href="https://www.youtube.com@networkinsights">YouTuber</a></h1>
 
 <h2>👨‍💻 Networking Projects:</h2>
 
-  - [Home LAB Active Directory](https://github.com/ypatelIT/LAB-Active-Directory)
+  - [Active Directory LAB in detail](https://github.com/ypatelIT/LAB-Active-Directory)
 
 
 <h2>📺 YouTube Videos</h2>
 
-- [Home LAB Active Directory]
-- [DNS services in Linux]
-- [SSH and Google Authenticator in Linux]
+- [Active Directory LAB]
+- [Setting up DNS services in Linux]
+- [Set up SSH and Google Authenticator in Linux]
 
 <h2> 🤳 Connect with me:</h2>
 
